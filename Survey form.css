@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(54, 10, 10);
+  color: white; 
+}
+
+h1 {
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+}
+
+.field {
+  border: 15px;
+  border-color: white;
+}
+
+.like {
+  margin-bottom: 12px;
+}
+
+.submitButton {
+  color: white;
+  background-color: black;
+  padding: 5px 10px;
+  margin-top: 15px;
+}
